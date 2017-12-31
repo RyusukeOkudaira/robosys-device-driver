@@ -15,8 +15,9 @@ LED Device Driver for Raspberry Pi3
 
 # Installation
 - douwnload repository
+  ```
   git clone https://github.com/RyusukeOkudaira/robosys-device-driver.git
-  
+  ```
 - compile and loading kernel module
  ```
  cd robosys-device-driver
